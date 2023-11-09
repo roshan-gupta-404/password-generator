@@ -1,5 +1,4 @@
 import { useState, useCallback, useEffect, useRef } from 'react'
-import './App.css'
 
 function App() {
   const [len, setLen] = useState('10') //length of password
